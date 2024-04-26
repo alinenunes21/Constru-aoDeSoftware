@@ -1,4 +1,6 @@
-import java.util.Scanner;
+package LetraC;
+
+import LetraC.LoginInvalidoExcepcion;
 
 public class Login {
     private String usuario;

@@ -1,3 +1,7 @@
+package LetraC;
+
+import LetraC.LoginInvalidoExcepcion;
+
 import java.util.Scanner;
 public class TesteLogin {
     public static void main (String[]args){
