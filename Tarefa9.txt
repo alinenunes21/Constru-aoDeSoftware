@@ -1,0 +1,19 @@
+O texto escolhido foi o 1.3, "Porque a qualidade de código é importante?"
+O texto traz os principais aspectos que temos que levar em consideração ao criar um código: 
+Legibilidade, manutenibilidade, baixa Complexidade e reusabilidade
+Os principais benefícios de seguir esses princípios são evitar sistemas legados, já que  através de um código legível e bem desenvolvido é possível entender tudo que está acontecendo apenas de ler o cógigo. 
+Além disso, um código limpo faz com que o desenvolvimento flua melhor e que necessite de menos manutenção. 
+Ademais, ter a organização do código auxilia muito o grupo que está desenvolvendo o código,porque eles conseguem se comunicar melhor.
+Algumas ferramentas são muito eficazes como prettier/eslint, que são como se fossem guias de como nosso código deve ser, essas ferramentas são ótimas para padronizar um projeto, afinal conseguimos definir regras de espaçamento, indentação, se deve ou não conter ponto e vírgula no final da linha entre outras regras. Esse tipo de ferramenta é bem comum e já se tornou um recurso básico.
+Eu tive como novidade essa ferramenta eslint/prettier, nunca havia ouvido falar dessa ferramenta. Achei muito interessante.Também não conhecia o conceito pato de borracha, achei bem diferente a ideia de explicar o código para um objeto inanimado.
+Eu já conhecia a importância de um código bem feito, uma vez que tive algumas disciplinas, como Engenharia de Software e Projeto de Software, em que os professores enfatizaram bastante esse assunto,  em especial a importância dos conceitos de : 
+Legibilidade: O código deve ser fácil de ler e entender para a equipe de desenvolvimento, com uma sintaxe clara, sem abreviações confusas e um estilo de codificação consistente;
+Simplicidade: Ele deve ser simples e conciso, a fim de reduzir erros e bugs;
+Modularidade: O código precisa ser dividido em módulos ou funções independentes, cada um com uma responsabilidade clara e bem definida. Isso torna o código mais fácil de testar, depurar e manter;
+Documentação: É importante documentar o código adequadamente, para ajudar as outras pessoas do time a entenderem a função de cada parte do código;
+Testabilidade: Deve ser fácil de testar e ter um conjunto abrangente de testes unitários para garantir que ele funcione corretamente;
+Confiabilidade: Deve ser confiável e lidar adequadamente com erros e exceções, retornando erros claros e informativos quando ocorrerem.
+Achei o artigo sucinto, porém informativo.
+Ele traz os benefícios que um código bem estruturado trazem para os que os desenvolvem e para os que um dia vão fazer manutenção nele.
+
+
